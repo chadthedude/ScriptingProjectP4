@@ -27,7 +27,7 @@ public class ConventionsAndSyntax : MonoBehaviour
         //I want the console to say somehting if my object is below 5
         if (transform.position.y <= 5f)
         {
-            Debug.Log("Aye Carumba!");
+            Debug.Log("I'm about to hit the ground! Aye Carumba!");
         }
     }
 }
